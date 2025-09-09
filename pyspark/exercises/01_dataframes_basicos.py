@@ -29,19 +29,22 @@ def create_spark_session():
 
 def load_data(spark):
     """Cargar los datasets necesarios"""
-    data_path = "../../data"
+    # Get the path relative to the project root
+    import os
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    data_path = os.path.join(project_root, "data")
     
     # Cargar transacciones
     transactions_df = spark.read.option("header", "true").option("inferSchema", "true") \
-        .csv(f"{data_path}/sample_data.csv")
+        .csv(os.path.join(data_path, "sample_data.csv"))
     
     # Cargar usuarios  
     users_df = spark.read.option("header", "true").option("inferSchema", "true") \
-        .csv(f"{data_path}/users.csv")
+        .csv(os.path.join(data_path, "users.csv"))
         
     # Cargar productos
     products_df = spark.read.option("header", "true").option("inferSchema", "true") \
-        .csv(f"{data_path}/products.csv")
+        .csv(os.path.join(data_path, "products.csv"))
     
     return transactions_df, users_df, products_df
 

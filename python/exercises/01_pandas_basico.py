@@ -22,12 +22,14 @@ import os
 
 def load_data():
     """Cargar los datasets necesarios"""
-    data_path = "../../data"
+    # Get the path relative to the project root
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    data_path = os.path.join(project_root, "data")
     
     # Cargar datasets
-    transactions = pd.read_csv(f"{data_path}/sample_data.csv")
-    users = pd.read_csv(f"{data_path}/users.csv")
-    products = pd.read_csv(f"{data_path}/products.csv")
+    transactions = pd.read_csv(os.path.join(data_path, "sample_data.csv"))
+    users = pd.read_csv(os.path.join(data_path, "users.csv"))
+    products = pd.read_csv(os.path.join(data_path, "products.csv"))
     
     return transactions, users, products
 

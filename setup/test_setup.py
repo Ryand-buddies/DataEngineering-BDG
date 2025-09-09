@@ -45,7 +45,7 @@ def test_libraries():
 
 def test_data_files():
     """Verificar que los archivos de datos existan"""
-    data_dir = Path("../data")
+    data_dir = Path("data")  # Changed from "../data" to "data"
     required_files = [
         "sample_data.csv",
         "users.csv", 
