@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,cost_price,selling_price
+1,Balanced heuristic approach,Toys,BrandE,347.43,480.75
+2,Switchable tertiary system engine,Beauty,BrandD,239.26,363.33
+3,Programmable background protocol,Beauty,BrandC,179.15,263.75
+4,Progressive non-volatile orchestration,Sports,BrandC,119.12,194.5
+5,Versatile needs-based project,Clothing,GenericBrand,372.73,659.93
+6,Horizontal fresh-thinking challenge,Books,BrandC,99.81,164.0
+7,Virtual dedicated frame,Sports,BrandC,490.35,833.39
+8,Open-architected intermediate implementation,Home & Garden,GenericBrand,183.64,253.67
+9,Pre-emptive 4thgeneration matrix,Books,BrandE,140.78,251.23
+10,Inverse next generation matrices,Sports,BrandD,350.22,446.8
+11,Integrated modular toolset,Clothing,BrandD,437.0,674.92
+12,Visionary systemic standardization,Food,BrandA,223.03,292.31
+13,Progressive 6thgeneration core,Sports,BrandA,470.83,699.95
+14,Integrated optimizing synergy,Toys,GenericBrand,248.41,384.09
+15,Stand-alone foreground support,Electronics,BrandC,80.1,135.1
+16,Public-key 4thgeneration application,Clothing,BrandD,496.99,631.71
+17,Networked content-based help-desk,Home & Garden,BrandD,388.97,555.54
+18,Synergized intermediate support,Sports,BrandC,430.78,772.83
+19,Profound holistic software,Electronics,BrandB,306.77,504.35
+20,Extended bandwidth-monitored knowledgebase,Home & Garden,BrandB,136.0,169.82
+21,Face-to-face transitional functionalities,Books,BrandD,278.24,360.02
+22,Universal demand-driven methodology,Food,BrandA,346.24,513.11
+23,Re-engineered scalable pricing structure,Home & Garden,BrandD,147.61,202.17
+24,Balanced homogeneous database,Clothing,GenericBrand,345.26,605.71
+25,Implemented 24hour encoding,Home & Garden,GenericBrand,215.44,328.92
+26,Enhanced human-resource emulation,Books,BrandA,454.66,771.09
+27,Open-architected 6thgeneration collaboration,Electronics,GenericBrand,87.13,120.64
+28,Right-sized dynamic process improvement,Sports,BrandC,222.38,329.39
+29,Optimized systemic orchestration,Toys,BrandD,471.62,707.56
+30,Expanded solution-oriented support,Food,BrandD,44.82,54.86
+31,Open-source system-worthy access,Beauty,BrandB,303.84,369.32
+32,Open-source homogeneous focus group,Electronics,BrandC,499.79,801.35
+33,Vision-oriented mobile extranet,Electronics,BrandE,382.74,499.52
+34,Self-enabling system-worthy infrastructure,Food,BrandE,458.46,600.08
+35,Total zero administration knowledge user,Toys,BrandA,319.22,477.25
+36,Switchable system-worthy definition,Food,GenericBrand,177.24,248.13
+37,Sharable bifurcated budgetary management,Clothing,GenericBrand,429.58,600.5
+38,Pre-emptive asymmetric contingency,Food,BrandE,147.67,260.95
+39,Down-sized user-facing extranet,Electronics,BrandC,230.14,319.6
+40,Horizontal national forecast,Clothing,BrandE,485.24,699.96
+41,Re-contextualized empowering benchmark,Electronics,BrandD,330.54,504.26
+42,Object-based dedicated array,Electronics,BrandD,97.85,138.66
+43,Exclusive clear-thinking model,Food,BrandE,381.2,504.0
+44,Phased mission-critical benchmark,Books,GenericBrand,464.2,679.06
+45,Focused 5thgeneration info-mediaries,Food,BrandE,65.11,116.15
+46,Configurable well-modulated solution,Home & Garden,BrandA,356.34,494.05
+47,Front-line intermediate pricing structure,Toys,BrandA,51.14,91.81
+48,Organic user-facing circuit,Food,BrandB,473.8,752.69
+49,Right-sized zero administration analyzer,Food,GenericBrand,466.66,641.71
+50,Visionary demand-driven success,Sports,BrandD,210.67,313.79
+51,Balanced non-volatile access,Home & Garden,BrandB,231.11,297.39
+52,Mandatory eco-centric conglomeration,Books,BrandD,432.69,590.95
+53,Persistent dedicated project,Beauty,BrandA,467.45,703.35
+54,Object-based homogeneous collaboration,Sports,BrandE,364.4,620.39
+55,Profit-focused asymmetric definition,Food,BrandD,433.3,636.05
+56,Self-enabling content-based groupware,Beauty,BrandD,169.56,281.08
+57,Assimilated leadingedge architecture,Food,GenericBrand,466.76,803.65
+58,Robust multi-tasking forecast,Home & Garden,BrandD,288.04,386.01
+59,Digitized neutral functionalities,Electronics,BrandD,162.5,241.12
+60,Customizable systemic architecture,Toys,GenericBrand,494.26,828.1
+61,Programmable national adapter,Books,BrandE,250.19,305.79
+62,Up-sized fresh-thinking hub,Beauty,BrandD,435.5,751.03
+63,Digitized bi-directional software,Clothing,GenericBrand,265.35,391.17
+64,Adaptive homogeneous ability,Books,BrandB,207.94,331.22
+65,Networked zero administration open system,Clothing,BrandC,237.4,422.93
+66,Face-to-face well-modulated product,Toys,GenericBrand,326.67,558.95
+67,Re-contextualized needs-based archive,Toys,BrandD,477.3,752.26
+68,Streamlined methodical orchestration,Electronics,GenericBrand,310.64,416.53
+69,Horizontal systemic pricing structure,Sports,BrandD,498.73,821.94
+70,Organized value-added encoding,Clothing,BrandA,381.38,618.73
+71,Seamless eco-centric hardware,Food,BrandA,87.35,120.52
+72,Polarized coherent knowledgebase,Electronics,BrandC,165.57,204.26
+73,Face-to-face client-server forecast,Beauty,BrandD,218.19,293.8
+74,Networked eco-centric complexity,Books,BrandD,89.14,111.19
+75,User-centric 3rdgeneration Internet solution,Home & Garden,BrandB,251.35,389.57
+76,Digitized 6thgeneration knowledgebase,Food,GenericBrand,320.76,473.36
+77,Triple-buffered needs-based emulation,Electronics,BrandC,449.96,665.56
+78,De-engineered responsive help-desk,Books,BrandE,41.56,73.44
+79,Open-architected intangible instruction set,Sports,BrandC,321.27,467.31
+80,Upgradable local intranet,Food,BrandD,423.43,558.73
+81,Persistent high-level Graphical User Interface,Food,BrandC,57.79,82.57
+82,Synchronized impactful challenge,Sports,GenericBrand,496.38,683.58
+83,Fully-configurable didactic structure,Toys,GenericBrand,140.87,216.88
+84,Re-contextualized content-based superstructure,Electronics,BrandC,455.76,750.68
+85,Persistent neutral task-force,Home & Garden,GenericBrand,305.5,431.18
+86,Multi-layered secondary function,Home & Garden,GenericBrand,312.34,501.82
+87,Object-based client-server leverage,Books,GenericBrand,315.98,550.45
+88,Quality-focused solution-oriented knowledge user,Electronics,BrandE,157.92,231.27
+89,Vision-oriented regional installation,Beauty,BrandC,367.52,460.9
+90,Exclusive didactic Graphical User Interface,Beauty,BrandB,375.0,489.52
+91,Switchable human-resource model,Beauty,BrandB,267.77,468.09
+92,Enterprise-wide leadingedge algorithm,Sports,BrandC,457.45,808.09
+93,Networked non-volatile secured line,Beauty,BrandA,403.1,596.99
+94,Future-proofed value-added software,Books,GenericBrand,378.3,505.17
+95,Stand-alone impactful orchestration,Toys,BrandC,483.8,814.12
+96,Distributed incremental functionalities,Clothing,BrandE,396.39,478.98
+97,Fully-configurable user-facing capacity,Clothing,GenericBrand,230.12,369.04
+98,Intuitive reciprocal task-force,Sports,BrandC,294.36,498.48
+99,Synergistic bandwidth-monitored toolset,Clothing,BrandE,339.04,502.76
+100,Configurable 3rdgeneration access,Beauty,BrandA,458.05,610.5
+101,Managed background functionalities,Food,BrandD,455.15,628.71
+102,Exclusive value-added collaboration,Clothing,BrandC,74.19,131.15
+103,Integrated asymmetric hierarchy,Food,BrandE,62.48,83.78
+104,Reduced local leverage,Books,GenericBrand,197.38,280.79
+105,Triple-buffered context-sensitive frame,Toys,BrandD,295.73,483.8
+106,Cross-platform next generation complexity,Clothing,BrandC,417.68,655.5
+107,Diverse intangible capability,Electronics,BrandD,346.69,461.22
+108,Diverse next generation neural-net,Home & Garden,GenericBrand,428.45,539.68
+109,Total even-keeled solution,Beauty,BrandC,274.51,490.47
+110,Customizable stable circuit,Electronics,BrandA,202.08,265.51
+111,Cross-platform web-enabled analyzer,Food,GenericBrand,50.38,66.87
+112,Multi-tiered methodical implementation,Electronics,BrandB,30.04,42.06
+113,Down-sized zero administration adapter,Home & Garden,BrandB,38.96,64.64
+114,Organic optimal orchestration,Home & Garden,BrandB,407.46,545.91
+115,Organized 3rdgeneration matrix,Electronics,BrandB,142.25,254.69
+116,Mandatory attitude-oriented hub,Sports,BrandA,400.26,506.71
+117,Enhanced client-driven process improvement,Books,BrandB,12.36,20.69
+118,Synergistic hybrid collaboration,Beauty,BrandB,12.81,17.41
+119,Synchronized dedicated productivity,Toys,BrandD,265.41,437.24
+120,Implemented transitional utilization,Food,BrandA,390.12,588.28
+121,Multi-channeled real-time website,Food,BrandA,254.4,449.59
+122,Ameliorated regional parallelism,Sports,BrandA,231.73,412.11
+123,Down-sized high-level extranet,Food,BrandA,424.41,617.84
+124,Profound even-keeled model,Food,BrandA,357.64,524.35
+125,Pre-emptive foreground concept,Beauty,BrandC,306.11,379.4
+126,Streamlined disintermediate standardization,Beauty,BrandC,193.55,301.64
+127,Fundamental local Internet solution,Food,GenericBrand,255.25,372.19
+128,Balanced encompassing synergy,Clothing,BrandE,427.13,679.37
+129,Switchable attitude-oriented groupware,Home & Garden,BrandD,217.88,377.55
+130,De-engineered regional access,Beauty,GenericBrand,414.57,596.66
+131,Innovative homogeneous customer loyalty,Clothing,BrandC,159.71,221.6
+132,Multi-tiered human-resource alliance,Beauty,BrandD,477.03,769.02
+133,Total homogeneous groupware,Clothing,BrandD,50.16,62.76
+134,Profound zero tolerance interface,Clothing,BrandB,373.57,531.81
+135,Triple-buffered global capacity,Electronics,BrandC,295.3,453.86
+136,Up-sized empowering neural-net,Clothing,BrandD,208.35,359.23
+137,Pre-emptive executive flexibility,Electronics,BrandC,484.36,755.72
+138,Organized static artificial intelligence,Clothing,GenericBrand,291.07,386.44
+139,Profound bifurcated adapter,Food,BrandE,116.0,146.73
+140,Virtual bi-directional encryption,Beauty,BrandB,61.87,84.59
+141,Enhanced holistic architecture,Toys,BrandE,423.35,755.56
+142,Re-engineered disintermediate time-frame,Electronics,GenericBrand,306.45,488.7
+143,Compatible 24/7 success,Sports,BrandC,19.33,26.37
+144,User-centric global process improvement,Beauty,BrandB,178.76,233.97
+145,Distributed optimal product,Toys,BrandA,39.44,64.86
+146,Self-enabling full-range toolset,Clothing,BrandD,374.33,497.51
+147,Seamless bottom-line approach,Food,GenericBrand,173.74,247.06
+148,Exclusive value-added artificial intelligence,Beauty,BrandA,389.53,600.09
+149,Cross-group transitional array,Electronics,BrandA,82.01,135.53
+150,Optional systemic emulation,Clothing,BrandD,139.69,223.11
+151,Business-focused transitional artificial intelligence,Food,BrandE,210.02,279.19
+152,Inverse responsive moderator,Clothing,GenericBrand,175.86,222.73
+153,Phased dedicated strategy,Food,BrandB,265.83,368.19
+154,Robust tertiary contingency,Toys,BrandB,492.3,606.94
+155,Horizontal upward-trending service-desk,Sports,BrandC,472.94,785.27
+156,Organic contextually-based middleware,Sports,GenericBrand,167.42,201.68
+157,Configurable context-sensitive customer loyalty,Toys,GenericBrand,91.97,131.34
+158,Digitized needs-based orchestration,Home & Garden,BrandC,252.63,429.47
+159,Total bottom-line standardization,Clothing,BrandD,201.55,331.6
+160,Ergonomic contextually-based Graphic Interface,Electronics,BrandC,232.58,289.96
+161,Diverse hybrid productivity,Toys,BrandD,288.83,469.55
+162,Right-sized incremental middleware,Sports,BrandC,62.01,75.19
+163,Extended interactive extranet,Books,GenericBrand,401.65,630.94
+164,User-centric disintermediate moderator,Beauty,BrandB,48.62,82.98
+165,Streamlined systemic extranet,Toys,BrandD,296.49,449.0
+166,Versatile cohesive architecture,Sports,BrandB,374.17,498.75
+167,Cloned modular hardware,Clothing,BrandE,257.69,326.86
+168,Secured web-enabled Internet solution,Home & Garden,GenericBrand,453.43,639.17
+169,Synergistic well-modulated structure,Books,BrandB,121.95,157.06
+170,Advanced value-added service-desk,Books,GenericBrand,303.19,502.12
+171,Intuitive optimizing throughput,Clothing,BrandD,92.69,154.21
+172,Total systemic portal,Food,BrandD,378.45,626.69
+173,Re-contextualized empowering superstructure,Beauty,BrandB,432.8,682.24
+174,Organized heuristic synergy,Food,BrandC,38.8,56.85
+175,Multi-layered modular framework,Sports,BrandA,297.75,420.17
+176,Intuitive needs-based synergy,Sports,BrandC,233.56,285.54
+177,Focused optimizing concept,Sports,BrandA,42.98,73.86
+178,Team-oriented heuristic installation,Toys,GenericBrand,234.04,358.69
+179,Persistent fresh-thinking utilization,Electronics,GenericBrand,227.62,383.74
+180,Persistent maximized knowledge user,Home & Garden,BrandB,164.16,243.84
+181,Digitized user-facing system engine,Electronics,BrandC,228.01,384.56
+182,Operative 4thgeneration challenge,Clothing,BrandB,254.75,332.08
+183,Multi-tiered responsive collaboration,Food,BrandE,495.54,750.47
+184,Multi-lateral 24/7 Internet solution,Books,BrandD,185.13,324.12
+185,Distributed optimizing contingency,Toys,BrandA,388.36,624.23
+186,Cross-platform 3rdgeneration infrastructure,Beauty,GenericBrand,37.63,47.29
+187,Distributed encompassing Graphical User Interface,Toys,GenericBrand,145.65,238.03
+188,Ameliorated modular infrastructure,Books,BrandB,170.01,263.45
+189,Innovative neutral focus group,Beauty,GenericBrand,158.56,252.69
+190,Ergonomic mobile portal,Toys,BrandA,68.83,111.87
+191,Optional intermediate complexity,Sports,BrandC,281.67,446.76
+192,Synchronized analyzing help-desk,Books,GenericBrand,336.71,571.52
+193,Cloned fresh-thinking strategy,Clothing,BrandC,324.78,472.24
+194,Robust explicit circuit,Electronics,BrandB,184.49,241.34
+195,Programmable modular website,Beauty,BrandB,474.1,707.24
+196,Operative mobile access,Books,BrandA,81.7,112.54
+197,Self-enabling cohesive Graphical User Interface,Electronics,BrandE,332.65,574.1
+198,Synergized regional interface,Books,BrandB,300.64,388.59
+199,Right-sized clear-thinking moderator,Books,BrandC,361.99,443.88
+200,Mandatory uniform hub,Home & Garden,GenericBrand,484.95,759.6
+201,Multi-layered non-volatile leverage,Food,BrandD,120.83,162.34
+202,Ameliorated local hub,Home & Garden,BrandD,187.08,330.81
+203,Fully-configurable demand-driven Graphic Interface,Food,BrandE,385.87,643.2
+204,Intuitive scalable leverage,Toys,BrandE,483.3,816.84
+205,Realigned global orchestration,Books,BrandD,437.14,538.25
+206,Total content-based capacity,Beauty,BrandE,279.5,352.6
+207,Self-enabling object-oriented emulation,Clothing,BrandC,146.11,242.23
+208,Fully-configurable mobile open system,Food,BrandD,453.13,583.82
+209,Ameliorated foreground migration,Clothing,BrandD,473.47,631.24
+210,Networked web-enabled circuit,Beauty,BrandD,465.58,674.6
+211,Configurable multi-tasking matrix,Beauty,BrandC,121.71,218.68
+212,Robust upward-trending flexibility,Home & Garden,GenericBrand,18.95,33.32
+213,Organized human-resource time-frame,Beauty,BrandC,396.73,508.83
+214,Visionary even-keeled structure,Food,GenericBrand,349.56,448.58
+215,Multi-lateral zero-defect approach,Food,BrandA,227.06,273.19
+216,Fully-configurable directional productivity,Electronics,BrandE,131.68,223.98
+217,Inverse heuristic process improvement,Toys,BrandC,60.04,82.43
+218,Realigned client-server toolset,Clothing,BrandE,28.64,41.58
+219,Intuitive mobile functionalities,Food,BrandD,36.09,61.43
+220,Stand-alone content-based policy,Electronics,GenericBrand,317.82,491.04
+221,Implemented upward-trending approach,Books,BrandC,149.18,179.16
+222,Progressive motivating forecast,Home & Garden,GenericBrand,287.48,377.29
+223,Multi-tiered interactive standardization,Clothing,BrandE,264.12,374.09
+224,Innovative empowering database,Electronics,GenericBrand,198.27,293.85
+225,Implemented 4thgeneration algorithm,Toys,BrandA,490.61,663.4
+226,Configurable holistic Local Area Network,Beauty,GenericBrand,395.32,556.17
+227,Organized responsive implementation,Clothing,BrandC,386.89,634.93
+228,Right-sized leadingedge task-force,Books,GenericBrand,26.95,41.17
+229,Customer-focused even-keeled knowledgebase,Books,GenericBrand,416.04,670.16
+230,Exclusive tertiary portal,Food,BrandA,317.71,535.94
+231,Horizontal cohesive parallelism,Food,BrandB,23.31,30.79
+232,Inverse 3rdgeneration capability,Electronics,BrandD,161.22,223.46
+233,Inverse neutral matrices,Food,BrandB,130.39,215.4
+234,Digitized foreground success,Sports,GenericBrand,181.7,303.17
+235,Reactive 4thgeneration product,Beauty,BrandD,140.24,235.55
+236,Stand-alone fresh-thinking infrastructure,Toys,BrandD,372.94,647.72
+237,Inverse reciprocal task-force,Beauty,BrandD,486.99,729.38
+238,Stand-alone executive Graphic Interface,Beauty,BrandA,462.53,699.14
+239,Profound analyzing success,Toys,BrandB,44.07,68.81
+240,Proactive asymmetric architecture,Sports,GenericBrand,164.0,204.68
+241,Distributed bi-directional model,Sports,BrandD,156.72,244.73
+242,Universal disintermediate array,Books,BrandA,346.43,488.79
+243,Multi-channeled global artificial intelligence,Beauty,GenericBrand,309.35,451.95
+244,Mandatory web-enabled architecture,Electronics,BrandC,42.15,66.7
+245,Open-architected needs-based approach,Books,BrandE,476.63,612.79
+246,Stand-alone hybrid solution,Food,GenericBrand,22.23,27.57
+247,Reactive background database,Beauty,BrandA,184.26,326.08
+248,Diverse bifurcated task-force,Books,BrandC,341.14,603.58
+249,Focused disintermediate approach,Food,BrandE,382.73,591.07
+250,Business-focused secondary standardization,Beauty,BrandB,202.03,321.17
+251,Polarized 6thgeneration analyzer,Clothing,BrandE,17.83,23.39
+252,Virtual discrete collaboration,Toys,BrandC,457.2,580.94
+253,Profit-focused foreground Graphic Interface,Food,GenericBrand,111.21,174.28
+254,Versatile scalable secured line,Food,BrandA,104.09,133.38
+255,Ameliorated multimedia task-force,Food,BrandA,90.46,147.27
+256,Proactive 4thgeneration secured line,Beauty,BrandE,335.58,545.56
+257,Reactive asymmetric analyzer,Sports,GenericBrand,446.21,763.38
+258,Reverse-engineered 5thgeneration database,Books,BrandA,397.88,598.91
+259,Reduced mobile ability,Home & Garden,BrandD,397.07,532.88
+260,Total attitude-oriented paradigm,Electronics,BrandD,183.64,283.42
+261,Profound composite infrastructure,Books,BrandC,307.91,385.42
+262,Distributed national ability,Toys,BrandE,499.8,815.33
+263,Future-proofed next generation hub,Toys,BrandA,385.74,653.44
+264,Diverse dedicated system engine,Books,BrandD,486.33,771.03
+265,Managed dedicated Graphic Interface,Food,BrandE,341.65,480.6
+266,Object-based bottom-line projection,Books,BrandE,385.05,491.87
+267,Organized 4thgeneration knowledge user,Electronics,BrandC,416.54,629.33
+268,Expanded contextually-based budgetary management,Books,BrandB,85.17,149.97
+269,Networked bi-directional synergy,Beauty,BrandC,474.0,716.37
+270,Exclusive well-modulated open system,Clothing,BrandE,129.05,204.03
+271,Team-oriented systematic data-warehouse,Sports,BrandE,66.96,92.52
+272,Multi-lateral maximized application,Clothing,BrandE,253.77,330.2
+273,Re-contextualized eco-centric data-warehouse,Books,BrandE,89.74,141.31
+274,Integrated 24/7 data-warehouse,Beauty,BrandA,422.05,649.18
+275,Managed demand-driven methodology,Clothing,BrandE,27.5,43.58
+276,Up-sized fresh-thinking knowledgebase,Sports,BrandD,327.31,543.39
+277,Robust web-enabled concept,Electronics,BrandC,251.53,396.49
+278,Polarized next generation policy,Sports,GenericBrand,244.06,410.71
+279,Synchronized dynamic archive,Toys,BrandA,152.23,189.34
+280,Adaptive 4thgeneration process improvement,Books,BrandB,222.6,331.8
+281,Advanced even-keeled ability,Beauty,GenericBrand,305.3,423.62
+282,Organic homogeneous superstructure,Beauty,BrandD,368.43,632.4
+283,Cross-platform actuating hub,Books,BrandA,381.53,575.72
+284,Stand-alone content-based interface,Beauty,BrandD,124.66,158.76
+285,Compatible even-keeled instruction set,Home & Garden,BrandD,74.73,91.95
+286,Innovative zero administration alliance,Toys,BrandB,127.89,219.87
+287,Innovative client-server firmware,Beauty,BrandB,467.21,762.8
+288,Expanded bottom-line productivity,Books,BrandD,251.64,379.68
+289,Phased context-sensitive access,Sports,BrandD,251.2,315.01
+290,Cross-group uniform encoding,Food,BrandC,483.51,642.63
+291,Reduced system-worthy open architecture,Electronics,GenericBrand,30.02,44.94
+292,Future-proofed 3rdgeneration standardization,Food,BrandA,146.45,176.46
+293,Cloned upward-trending solution,Toys,BrandC,71.3,96.87
+294,Extended asymmetric infrastructure,Toys,BrandE,186.14,268.11
+295,Assimilated 5thgeneration methodology,Home & Garden,BrandD,184.45,253.28
+296,Persistent incremental conglomeration,Food,BrandE,383.38,524.4
+297,Re-engineered 6thgeneration protocol,Clothing,BrandC,68.69,86.41
+298,Visionary even-keeled strategy,Beauty,BrandB,281.13,399.03
+299,Up-sized mission-critical customer loyalty,Home & Garden,BrandA,303.22,436.89
+300,Assimilated static flexibility,Electronics,BrandD,24.26,39.5
+301,Front-line system-worthy knowledge user,Food,BrandB,78.73,136.67
+302,Streamlined 6thgeneration open system,Beauty,BrandD,466.03,648.3
+303,Realigned tangible matrix,Sports,BrandE,298.89,449.65
+304,Universal value-added application,Food,BrandA,355.83,491.0
+305,Multi-lateral background policy,Beauty,BrandD,168.96,213.86
+306,Persevering methodical moratorium,Sports,GenericBrand,399.39,653.08
+307,Multi-layered stable hub,Electronics,GenericBrand,300.47,408.43
+308,Inverse user-facing productivity,Home & Garden,BrandB,362.09,561.28
+309,Open-source context-sensitive paradigm,Toys,BrandA,78.15,125.7
+310,Multi-layered maximized hardware,Clothing,BrandD,99.44,145.64
+311,Digitized systematic system engine,Books,BrandE,209.42,276.92
+312,Synergistic needs-based installation,Food,BrandA,437.04,717.4
+313,Optional background portal,Books,GenericBrand,261.75,402.19
+314,Devolved full-range help-desk,Food,BrandB,265.11,368.04
+315,Organized web-enabled moratorium,Food,BrandC,456.5,641.56
+316,Balanced global middleware,Sports,BrandB,306.99,403.8
+317,Right-sized global moratorium,Sports,BrandC,281.25,375.45
+318,Re-engineered client-driven utilization,Sports,BrandD,353.93,571.29
+319,Team-oriented hybrid artificial intelligence,Beauty,GenericBrand,242.5,372.55
+320,Customizable motivating moratorium,Sports,BrandE,147.46,227.69
+321,Programmable bi-directional orchestration,Toys,BrandC,448.4,644.23
+322,Function-based neutral secured line,Books,GenericBrand,148.77,204.2
+323,User-centric discrete software,Clothing,BrandC,176.45,258.57
+324,Pre-emptive bifurcated Graphic Interface,Food,BrandC,110.92,188.21
+325,Reactive hybrid model,Sports,BrandE,72.95,114.49
+326,Face-to-face object-oriented hardware,Home & Garden,BrandE,125.02,200.27
+327,Team-oriented web-enabled benchmark,Home & Garden,BrandD,320.78,395.04
+328,Sharable secondary knowledgebase,Beauty,BrandB,360.09,453.83
+329,Team-oriented web-enabled core,Electronics,BrandB,482.44,862.0
+330,Profit-focused bi-directional methodology,Toys,BrandD,328.18,567.22
+331,Compatible system-worthy function,Food,BrandC,327.02,540.74
+332,Versatile impactful framework,Beauty,BrandA,146.28,180.73
+333,Quality-focused scalable attitude,Home & Garden,BrandA,269.9,440.98
+334,Assimilated 3rdgeneration algorithm,Books,BrandA,211.85,360.69
+335,Decentralized demand-driven contingency,Toys,GenericBrand,395.04,518.21
+336,Cloned eco-centric knowledge user,Sports,BrandE,438.99,529.23
+337,Optimized heuristic protocol,Clothing,BrandD,464.59,650.9
+338,Advanced tangible policy,Food,BrandE,445.18,570.06
+339,Mandatory human-resource hub,Food,BrandC,140.05,236.02
+340,Innovative interactive process improvement,Books,GenericBrand,366.9,582.99
+341,Sharable reciprocal parallelism,Books,BrandC,11.97,16.79
+342,Synergistic mobile alliance,Home & Garden,BrandD,91.87,157.44
+343,Intuitive grid-enabled algorithm,Toys,GenericBrand,260.06,325.61
+344,Total methodical website,Clothing,BrandC,96.47,123.9
+345,Versatile national throughput,Home & Garden,BrandD,8.38,11.98
+346,Optimized system-worthy parallelism,Sports,GenericBrand,477.25,659.16
+347,Synergized mobile algorithm,Electronics,BrandB,134.47,190.37
+348,Automated mobile task-force,Electronics,BrandB,335.55,496.36
+349,Phased eco-centric moratorium,Toys,GenericBrand,344.61,604.4
+350,Configurable dynamic success,Sports,BrandC,346.69,548.89
+351,Persevering homogeneous synergy,Beauty,BrandB,309.24,411.75
+352,Front-line real-time leverage,Food,BrandE,80.83,133.26
+353,Inverse fault-tolerant neural-net,Beauty,BrandD,210.84,322.49
+354,Extended reciprocal installation,Home & Garden,BrandE,382.12,614.53
+355,Advanced systemic capacity,Clothing,BrandC,265.13,402.18
+356,Profit-focused leadingedge architecture,Clothing,BrandE,459.04,581.75
+357,Persistent even-keeled standardization,Home & Garden,BrandC,288.49,372.13
+358,Public-key solution-oriented success,Food,BrandE,62.54,82.76
+359,Function-based optimal capability,Food,BrandA,50.02,75.34
+360,Enhanced local frame,Food,BrandE,70.31,101.9
+361,Balanced explicit policy,Electronics,BrandC,281.6,451.59
+362,Optimized bifurcated software,Electronics,GenericBrand,200.99,339.65
+363,Compatible dedicated matrices,Home & Garden,BrandC,291.26,357.43
+364,Fully-configurable 24hour info-mediaries,Clothing,BrandA,272.88,337.32
+365,Visionary homogeneous analyzer,Food,BrandB,20.71,29.93
+366,Enterprise-wide directional Graphical User Interface,Toys,BrandD,190.36,330.24
+367,Focused transitional intranet,Toys,GenericBrand,190.94,307.34
+368,Cross-platform composite challenge,Books,BrandB,328.5,462.75
+369,User-centric real-time open system,Toys,BrandB,266.78,436.64
+370,Organic modular hierarchy,Electronics,BrandD,379.31,677.86
+371,Ameliorated tertiary moderator,Toys,BrandB,268.31,454.52
+372,Sharable needs-based benchmark,Food,GenericBrand,176.35,240.79
+373,Phased 5thgeneration focus group,Clothing,BrandE,20.95,33.44
+374,Realigned tangible interface,Electronics,BrandE,124.13,153.97
+375,Cloned background firmware,Electronics,BrandA,225.99,362.31
+376,Phased impactful middleware,Home & Garden,BrandB,371.57,535.57
+377,Devolved bottom-line algorithm,Home & Garden,BrandB,378.42,630.31
+378,Cross-group object-oriented contingency,Sports,BrandE,120.91,211.57
+379,Organized stable moratorium,Beauty,BrandC,290.85,483.84
+380,Realigned empowering matrices,Home & Garden,GenericBrand,154.37,198.51
+381,Switchable contextually-based paradigm,Home & Garden,BrandE,209.71,286.27
+382,Customizable next generation analyzer,Books,BrandD,314.87,458.55
+383,Exclusive client-server framework,Electronics,GenericBrand,486.28,858.26
+384,User-friendly tangible infrastructure,Toys,BrandD,393.97,548.11
+385,Multi-layered analyzing migration,Toys,BrandE,78.86,112.44
+386,Customizable multi-tasking secured line,Food,GenericBrand,124.28,165.94
+387,Reduced multi-tasking access,Books,BrandE,403.86,706.29
+388,Devolved foreground encryption,Toys,BrandB,484.05,742.71
+389,Extended content-based protocol,Toys,GenericBrand,125.21,165.53
+390,Polarized mission-critical data-warehouse,Clothing,BrandA,461.5,788.37
+391,Enhanced human-resource neural-net,Home & Garden,BrandE,30.51,43.52
+392,Digitized static capacity,Electronics,BrandE,437.44,574.31
+393,Virtual asymmetric matrices,Home & Garden,BrandC,242.3,417.16
+394,Re-contextualized composite encryption,Sports,BrandB,478.72,578.87
+395,Self-enabling high-level definition,Clothing,BrandB,374.71,619.25
+396,Open-source analyzing system engine,Home & Garden,BrandC,201.33,270.51
+397,Balanced fresh-thinking time-frame,Sports,BrandC,193.43,294.05
+398,Assimilated content-based secured line,Sports,BrandD,134.47,202.74
+399,Object-based local portal,Food,BrandD,53.81,96.25
+400,User-friendly clear-thinking matrices,Beauty,BrandD,457.59,650.89
+401,Stand-alone web-enabled productivity,Electronics,BrandB,283.45,377.77
+402,Front-line radical model,Electronics,BrandE,134.08,236.1
+403,Proactive zero administration archive,Toys,BrandB,151.12,199.13
+404,Right-sized 4thgeneration instruction set,Toys,BrandE,287.05,386.78
+405,Realigned attitude-oriented strategy,Beauty,GenericBrand,132.38,224.11
+406,Visionary secondary analyzer,Food,BrandC,233.11,382.22
+407,Grass-roots hybrid focus group,Books,BrandB,74.28,113.49
+408,Streamlined global framework,Electronics,BrandA,264.35,450.3
+409,Integrated methodical migration,Electronics,GenericBrand,383.35,554.87
+410,Networked web-enabled solution,Home & Garden,BrandB,38.64,49.87
+411,Phased global array,Food,GenericBrand,189.73,298.01
+412,Mandatory national model,Food,BrandE,331.35,400.75
+413,Function-based responsive flexibility,Toys,BrandC,10.87,16.5
+414,Horizontal radical migration,Sports,GenericBrand,13.49,22.77
+415,Intuitive fresh-thinking encoding,Toys,BrandA,404.05,705.42
+416,Monitored fault-tolerant core,Clothing,BrandE,264.57,355.74
+417,Programmable systematic installation,Sports,BrandD,408.53,555.76
+418,Fundamental radical interface,Clothing,BrandE,189.66,273.8
+419,Visionary reciprocal toolset,Home & Garden,GenericBrand,495.17,661.31
+420,Visionary system-worthy frame,Clothing,BrandA,328.6,563.53
+421,Synergized systemic hierarchy,Clothing,BrandD,205.61,293.26
+422,Expanded maximized paradigm,Electronics,BrandA,320.19,519.25
+423,Decentralized uniform success,Food,BrandC,423.44,671.98
+424,Sharable dynamic database,Clothing,BrandB,447.92,784.53
+425,Enterprise-wide secondary workforce,Home & Garden,BrandE,451.13,728.74
+426,Multi-layered dynamic infrastructure,Food,GenericBrand,139.19,244.21
+427,Universal encompassing open system,Sports,BrandA,450.16,692.39
+428,Public-key global circuit,Books,BrandB,464.74,645.38
+429,Robust asynchronous extranet,Books,BrandD,377.37,614.22
+430,Multi-tiered neutral infrastructure,Clothing,BrandE,153.14,235.59
+431,Cloned content-based workforce,Toys,BrandD,340.13,518.47
+432,Proactive logistical neural-net,Books,BrandA,396.3,639.46
+433,Profound non-volatile instruction set,Beauty,BrandA,31.58,46.18
+434,Future-proofed actuating interface,Beauty,BrandE,304.56,477.65
+435,Right-sized bi-directional leverage,Toys,GenericBrand,484.62,676.45
+436,Networked foreground capability,Sports,BrandB,392.86,577.63
+437,Enterprise-wide bottom-line hierarchy,Beauty,BrandB,278.75,397.29
+438,Balanced asymmetric focus group,Toys,BrandB,47.42,74.5
+439,Reactive national flexibility,Clothing,GenericBrand,45.61,58.95
+440,Cross-platform value-added software,Books,BrandA,371.13,515.87
+441,Expanded 6thgeneration protocol,Clothing,BrandC,7.57,10.48
+442,Advanced bifurcated Graphical User Interface,Sports,BrandD,55.6,69.63
+443,Horizontal intermediate encoding,Food,BrandA,280.71,423.16
+444,Face-to-face regional portal,Electronics,BrandE,49.36,75.65
+445,Reactive heuristic encoding,Beauty,BrandD,432.54,522.25
+446,Ameliorated neutral paradigm,Toys,BrandE,390.69,638.74
+447,Virtual directional concept,Home & Garden,BrandD,288.12,375.06
+448,Expanded needs-based pricing structure,Books,BrandD,73.73,101.8
+449,Diverse background orchestration,Books,BrandD,36.32,53.06
+450,Pre-emptive bottom-line attitude,Sports,BrandC,244.69,304.92
+451,Open-source directional encoding,Home & Garden,BrandE,361.85,541.86
+452,Seamless composite conglomeration,Home & Garden,BrandA,231.64,296.8
+453,Grass-roots bi-directional ability,Toys,BrandC,169.45,266.39
+454,Synchronized fault-tolerant Internet solution,Food,GenericBrand,170.69,288.34
+455,Organized didactic emulation,Books,GenericBrand,153.72,240.1
+456,Configurable incremental structure,Home & Garden,BrandD,242.11,316.34
+457,Organic coherent support,Beauty,BrandD,149.27,241.37
+458,Seamless web-enabled implementation,Home & Garden,BrandD,166.31,227.54
+459,Quality-focused well-modulated flexibility,Beauty,BrandE,61.37,94.41
+460,Synergistic mobile Internet solution,Books,GenericBrand,342.45,523.97
+461,Inverse 3rdgeneration methodology,Food,BrandC,471.77,625.47
+462,Organic real-time database,Clothing,BrandD,410.39,688.39
+463,Digitized tertiary archive,Food,BrandC,73.89,102.09
+464,Down-sized zero tolerance initiative,Books,BrandA,359.04,600.83
+465,Extended foreground help-desk,Food,BrandD,495.4,736.93
+466,Grass-roots dynamic structure,Toys,BrandC,274.1,458.96
+467,Focused homogeneous policy,Clothing,GenericBrand,59.14,79.78
+468,Assimilated systemic open system,Beauty,BrandE,87.34,136.91
+469,Stand-alone tangible architecture,Toys,BrandD,483.57,676.49
+470,Universal 3rdgeneration info-mediaries,Clothing,BrandE,10.22,13.85
+471,Multi-lateral homogeneous adapter,Home & Garden,GenericBrand,225.66,323.75
+472,Optional uniform knowledge user,Books,BrandA,175.76,213.5
+473,Cross-group intermediate extranet,Sports,BrandA,210.91,374.79
+474,Focused encompassing hierarchy,Books,BrandB,177.42,249.42
+475,Polarized cohesive concept,Food,GenericBrand,177.41,223.28
+476,Reduced secondary model,Food,GenericBrand,162.86,224.77
+477,Automated homogeneous hierarchy,Clothing,BrandA,16.18,22.75
+478,Virtual discrete array,Books,BrandE,465.31,765.11
+479,Cross-group reciprocal standardization,Books,BrandD,278.2,389.09
+480,Function-based attitude-oriented moderator,Food,BrandB,119.77,172.83
+481,Organized coherent frame,Books,BrandA,322.04,469.95
+482,Optional even-keeled contingency,Home & Garden,BrandA,227.54,331.69
+483,Open-source fault-tolerant concept,Home & Garden,BrandA,106.86,176.47
+484,Focused background process improvement,Clothing,BrandC,400.75,609.99
+485,Re-engineered solution-oriented toolset,Beauty,GenericBrand,102.55,130.07
+486,Horizontal neutral leverage,Food,BrandE,266.22,421.55
+487,Down-sized disintermediate adapter,Toys,BrandC,307.6,477.46
+488,Robust transitional archive,Beauty,GenericBrand,423.53,665.12
+489,Visionary bandwidth-monitored flexibility,Sports,GenericBrand,459.75,714.5
+490,Public-key bottom-line time-frame,Books,BrandA,160.03,214.94
+491,Reactive well-modulated hub,Books,BrandD,189.79,243.85
+492,Distributed national contingency,Toys,BrandD,300.23,463.82
+493,Advanced fresh-thinking concept,Books,GenericBrand,245.9,374.36
+494,Profound 3rdgeneration middleware,Books,BrandB,279.68,417.78
+495,Object-based client-driven concept,Books,BrandA,160.72,236.35
+496,Phased coherent capacity,Beauty,BrandB,476.16,709.84
+497,Robust holistic orchestration,Toys,BrandD,482.1,724.72
+498,Persistent dynamic knowledgebase,Toys,BrandD,343.92,498.47
+499,Triple-buffered bifurcated structure,Food,BrandB,87.79,135.13
+500,Diverse scalable portal,Sports,BrandC,21.18,28.27
